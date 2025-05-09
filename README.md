@@ -2,7 +2,7 @@
 
 ## 📌 Project Description
 
-Hi there! 👋 Welcome to my **COVID-19 Global Data Tracker** project. This is a data analysis project I built using Python and Jupyter Notebook to explore how COVID-19 has impacted different countries over time. Using real-world data from *Our World in Data*, I cleaned, processed, and visualized key metrics like total cases, deaths, and vaccinations. The aim was to uncover trends, compare countries, and tell a clear story through data.
+Welcome to my **COVID-19 Global Data Tracker** project. This is a data analysis project I built using Python and Jupyter Notebook to explore how COVID-19 has impacted different countries over time. Using real-world data from *Our World in Data*, I cleaned, processed, and visualized key metrics like total cases, deaths, and vaccinations. The aim was to uncover trends, compare countries, and tell a clear story through data.
 
 This project not only helped me strengthen my data analysis and visualization skills but also deepened my understanding of global pandemic trends. Whether you're a fellow learner, data enthusiast, or just curious, feel free to explore the notebook, visuals, and insights — I hope you enjoy going through it as much as I enjoyed creating it!
 
